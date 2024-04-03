@@ -1,0 +1,33 @@
+body{
+    height: 100vh;
+    background: linear-gradient(to right, #010101, #696b6e);
+}
+.card{
+    width: 350px;
+    height: 370px;
+    background-color: dimgray;
+    border-radius: 15px;
+    margin: 120px auto;
+    border: 5px solid rgb(254, 254, 254);
+}
+#vtc{
+    margin-left: 30px;
+    color: white;
+}
+/*.anh{
+    margin: 20px auto;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}*/
+#h2{
+    margin-left: 15px;
+    color: white;
+    font-size: 27px;
+}
+.card .icon{
+    padding-top: 15px;
+    padding-left: 15px;
+    color: white;
+    font-size: 25px;
+}
